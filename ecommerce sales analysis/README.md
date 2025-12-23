@@ -74,8 +74,7 @@ All cleaning steps are fully documented in SQL scripts.
 ## 📊 Dashboard Preview
 Below is a snapshot of the Power BI dashboard built for this project:
 
-<img width="1051" height="711" alt="dashboard 1" src="https://github.com/user-attachments/assets/2139b4d9-47f0-4282-8b55-73c9769c6f0a" />
-<img width="1051" height="714" alt="dashboard 2" src="https://github.com/user-attachments/assets/ae01465e-44fc-464f-8058-3c8c6157d7ca" />
+<img width="1051" height="1425" alt="dashboard_overview" src="https://github.com/user-attachments/assets/ee798ad0-6deb-47ff-86a2-dad437f6c1e9" />
 
 ---
 
@@ -125,4 +124,5 @@ This project demonstrates:
 - Business-oriented thinking beyond technical skills
 - End-to-end data analytics workflow
 - Clear communication through dashboards and documentation
+
 
